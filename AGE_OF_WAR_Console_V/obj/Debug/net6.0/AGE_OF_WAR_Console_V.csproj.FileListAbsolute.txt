@@ -1,0 +1,15 @@
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\bin\Debug\net6.0\AGE_OF_WAR_Console_V.exe
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\bin\Debug\net6.0\AGE_OF_WAR_Console_V.deps.json
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\bin\Debug\net6.0\AGE_OF_WAR_Console_V.runtimeconfig.json
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\bin\Debug\net6.0\AGE_OF_WAR_Console_V.dll
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\bin\Debug\net6.0\AGE_OF_WAR_Console_V.pdb
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\AGE_OF_WAR_Console_V.csproj.AssemblyReference.cache
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\AGE_OF_WAR_Console_V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\AGE_OF_WAR_Console_V.AssemblyInfoInputs.cache
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\AGE_OF_WAR_Console_V.AssemblyInfo.cs
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\AGE_OF_WAR_Console_V.csproj.CoreCompileInputs.cache
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\AGE_OF_WAR_Console_V.dll
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\refint\AGE_OF_WAR_Console_V.dll
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\AGE_OF_WAR_Console_V.pdb
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\AGE_OF_WAR_Console_V.genruntimeconfig.cache
+C:\Users\78tib\source\repos\AGE_OF_WAR_Console_V\obj\Debug\net6.0\ref\AGE_OF_WAR_Console_V.dll

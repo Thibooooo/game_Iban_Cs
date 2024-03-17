@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AGE_OF_WAR_Console_V/1.0.0": {
+        "runtime": {
+          "AGE_OF_WAR_Console_V.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AGE_OF_WAR_Console_V/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
